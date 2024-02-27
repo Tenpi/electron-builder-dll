@@ -1,7 +1,6 @@
 {
   "name": "electron-builder-dll",
   "version": "1.0.0",
-  "description": "A gui app that upscales anime-styled images with waifu2x",
   "main": "dist/main.js",
   "scripts": {
     "start": "npm run clean && webpack && electron dist/main.js",
